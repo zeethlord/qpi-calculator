@@ -1,0 +1,55 @@
+Year,Semester,Course Code,Course Title,Units
+1L,1S,JD101,"Persons and Family Relations",4
+1L,1S,JD102,"Constitutional Law 1",4
+1L,1S,JD103,"Criminal Law 1",4
+1L,1S,JD104,"Statutory Construction",2
+1L,1S,JD105,"Legal Research and Writing",3
+1L,1S,JD106,"Professional English for Lawyers 1",2
+1L,1S,SEM01,"Seminar 1 (SBC Requirement)",1
+1L,2S,JD107,"Obligations and Contracts",5
+1L,2S,JD108,"Constitutional Law 2",3
+1L,2S,JD109,"Criminal Law 2",4
+1L,2S,JD110,"Basic Legal and Judicial Ethics",3
+1L,2S,JD111,"Philosophy of Law",2
+1L,2S,JD112,"Professional English for Lawyers 2",2
+1L,2S,JD113,"Gender Sensitivity and Laws on Women and Children's Rights",2
+1L,2S,SEM02,"Seminar 2 (SBC Requirement)",1
+2L,1S,JD201,"Property Law",4
+2L,1S,JD202,"Criminal Procedure",3
+2L,1S,JD203,"Sales and Lease",3
+2L,1S,JD204,"Transportation Laws",2
+2L,1S,JD205,"Public International Law",3
+2L,1S,JD206,"Environmental and Natural Resources Law",3
+2L,1S,SEM03,"Seminar 3 (SBC Requirement)",1
+2L,2S,JD207,"Administrative Law, Election Law and Laws on Local Government",5
+2L,2S,JD208,"Agency, Trust and Partnership",3
+2L,2S,JD209,"Labor Standards and Social Legislation",4
+2L,2S,JD210,"Insurance Law",2
+2L,2S,JD211,"Land Titles and Deeds",2
+2L,2S,JD212,"Legal Forms (with Contract Drafting)",2
+2L,2S,SEM04,"Seminar 4 (SBC Requirement)",1
+3L,1S,JD301,"Basic Taxation Law",3
+3L,1S,JD302,"Civil Procedure 1 (Rules 1 to 39)",3
+3L,1S,JD303,"Corporation Law and Basic Securities Law",4
+3L,1S,JD304,"Labor Relations",4
+3L,1S,JD305,"Torts and Damages",2
+3L,1S,JD306,"CLEP 1: Alternative Dispute Resolution",2
+3L,1S,JD307,"Wills and Succession",3
+3L,2S,JD308,"Civil Procedure 2 (with Special Rules and Proceedings)",6
+3L,2S,JD309,"Evidence and Trial Techniques",5
+3L,2S,JD310,"Commercial Laws 1: Credit Transactions, Banking and Negotiable Instruments Law",5
+3L,2S,JD311,"Advanced Taxation Law",3
+3L,2S,JD312,"Legal and Judicial Ethics and Practical Exercises Review and Integration",3
+3L,2S,JD313,"Commercial Laws 2: Intellectual Property Law, Data Privacy Act and Competition Act",4
+4L,1S,JD401,"Political and International Law Review and Integration",5
+4L,1S,JD402,"Civil Law Review and Integration 1",4
+4L,1S,JD403,"Criminal Law Review and Integration",6
+4L,1S,JD404,"Labor Law Review and Integration",3
+4L,1S,JD405,"CLEP 2: Legal Counseling and Apprenticeship (Practice Court 1)",2
+4L,1S,JD406,"Private International Law",2
+4L,2S,JD407,"Civil Law Review and Integration 2",4
+4L,2S,JD408,"Remedial Law Review and Integration",7
+4L,2S,JD409,"Commercial Law Review and Integration",6
+4L,2S,JD410,"Taxation Law Review and Integration",3
+4L,2S,JD411,"CLEP 3: Trial and Appellate Practice (Practice Court 2)",2
+4L,2S,JD412,"Medical Jurisprudence",2
