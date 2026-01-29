@@ -56,7 +56,7 @@ with left_col:
                     if val is None or pd.isna(val):
                         return ""
                     return "color: red;" if val < 75 else ""
-
+                
                 edited_sem = st.data_editor(
                     sem_df.style.applymap(highlight_grade, subset=["Grade"]),
                     column_config={
@@ -67,7 +67,7 @@ with left_col:
                             step=0.5
                         )
                     },
-                    hide_index=True
+                    hide_index=True,
                 )
                 curriculum_grades.loc[edited_sem.index, "Grade"] = edited_sem["Grade"]
 
