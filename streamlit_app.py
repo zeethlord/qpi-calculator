@@ -55,10 +55,10 @@ with left_col:
                 def highlight_grade(val):
                     if val is None or pd.isna(val):
                         return ""
-                    return "color: red;" if val < 75 else ""
+                    return "background-color: #ffcccc;" if val < 75 else ""
                 
                 edited_sem = st.data_editor(
-                    sem_df.style.applymap(highlight_grade, subset=["Grade"]),
+    sem_df.style.map(highlight_grade, subset=["Grade"]),
                     column_config={
                         "Grade": st.column_config.NumberColumn(
                             "Grade",
